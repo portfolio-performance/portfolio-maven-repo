@@ -6,7 +6,7 @@ Maven repository hosting external dependencies for https://github.com/buchen/por
 
 ### [SWTChart](http://www.swtchart.org/)
 
-Library: org.swtchart_0.8.0.jar
+Library: org.swtchart_0.9.0.jar
 
 License: [Eclipse Public License v1.0](http://www.eclipse.org/legal/epl-v10.html)
 
@@ -14,7 +14,7 @@ License: [Eclipse Public License v1.0](http://www.eclipse.org/legal/epl-v10.html
 <dependency>
   <groupId>org.swtchart</groupId>
   <artifactId>org.swtchart</artifactId>
-  <version>0.8.0</version>
+  <version>0.9.0</version>
 </dependency>
 ```
 
@@ -44,4 +44,16 @@ License: [Eclipse Public License v1.0](http://www.eclipse.org/legal/epl-v10.html
   <artifactId>de.engehausen.treemap.swt</artifactId>
   <version>0.0.5</version>
 </dependency>
+```
+
+## Usage
+
+Used by adding a new repository:
+
+Used
+```
+<repository>
+	<id>portfolio-non-maven-dependencies</id>
+	<url>http://buchen.github.io/maven-repo</url>
+</repository>
 ```
