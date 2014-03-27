@@ -50,7 +50,6 @@ License: [Eclipse Public License v1.0](http://www.eclipse.org/legal/epl-v10.html
 
 Used by adding a new repository:
 
-Used
 ```
 <repository>
 	<id>portfolio-non-maven-dependencies</id>
