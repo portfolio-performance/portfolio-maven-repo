@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.apache.maven.plugins</groupId>
+  <artifactId>maven-jarsigner-plugin</artifactId>
+  <version>1.5-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20171110.184822</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20171110184822</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.5-20171110.184822-1</value>
+        <updated>20171110184822</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.5-20171110.184822-1</value>
+        <updated>20171110184822</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
