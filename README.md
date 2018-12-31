@@ -53,7 +53,7 @@ License: [Eclipse Public License v1.0](http://www.eclipse.org/legal/epl-v10.html
 <plugin>
   <groupId>name.abuchen</groupId>
   <artifactId>fix-info-plist-maven-plugin</artifactId>
-  <version>1.3</version>
+  <version>1.4</version>
 </plugin>
 ```
 
